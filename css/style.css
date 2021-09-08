@@ -1,0 +1,203 @@
+* {
+			margin: 0;
+			padding: 0;
+			background-color: #66CDAA;
+		}
+
+		.navbar {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			position: sticky;
+			top: 0;
+			cursor: pointer;
+			color: black;
+		}
+
+		.background {
+			background: #66CDAA;
+			background-blend-mode: color-burn;
+			background-size: cover;
+		}
+
+		.nav-list {
+			width: 70%;
+			display: flex;
+			align-items: center;
+		}
+
+		.logo {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.logo img {
+			width: 80px;
+			border-radius: 50px;
+		}
+
+		.nav-list li {
+			list-style: none;
+			padding: 26px 30px;
+		}
+
+		.nav-list li a {
+			text-decoration: none;
+			color: midnightblue;
+		}
+
+		.nav-list li a:hover {
+			color: white;
+		}
+
+		.rightnav {
+			width: 30%;
+			text-align: right;
+		}
+
+		#search {
+			padding: 5px;
+			font-size: 17px;
+			border: 2px solid grey;
+			border-radius: 9px;
+		}
+	.btn{
+		padding: 8px 20px;
+		margin: 7px 0px;
+		border: 2px solid grey;
+		background: none;
+		color: white;
+		cursor: pointer;
+	}
+
+
+.reg{
+  border: 3px solid white;
+  padding: 8px 8px;
+
+}
+
+.head{
+	font-size: 50px;
+	font-style: italic;
+	color: midnightblue;
+}
+	
+.fullname{
+	color: black;
+	font-size: 20px;
+}	
+.name{
+	padding: 3px;
+	border: 2px solid midnightblue;
+	font-size: 18px;
+	align: center;
+}
+
+.username{
+	color: black;
+	font-size: 20px;
+}
+	
+.user{
+	padding: 3px;
+	border: 2px solid midnightblue;
+	font-size: 18px;
+	align: center;
+}
+.emailaddress{
+	color: black;
+	font-size: 20px;
+}
+.email{
+	padding: 3px;
+	border: 2px solid midnightblue;
+	font-size: 18px;
+	align: center;
+}
+
+.phoneno{
+	color: black;
+	font-size: 20px;
+}
+.phone{
+	padding: 3px;
+	border: 2px solid midnightblue;
+	font-size: 18px;
+	font color: white;
+	align: center;
+}
+
+.password{
+	color: black;
+	font-size: 20px;
+}
+.word{
+	padding: 3px;
+	border: 2px solid midnightblue;
+	font-size: 18px;
+	align: center;
+}
+
+.confirmp{
+	color: black;
+	font-size: 20px;
+}
+.confirm{
+	padding: 3px;
+	border: 2px solid midnightblue;
+	font-size: 18px;
+	align: center;
+}
+
+.box{
+	border-style: outset;
+	padding: 50 px;
+	cursor: pointer;
+}
+
+.terms{
+color: black;
+	font-size: 15px;
+}
+.terms :hover {
+color: black;
+}
+
+.register {
+	margin: 7px 0px;
+	color: white;
+	font-size: 15px;
+	padding: 8px 20px;
+	background: #66CDAA;
+	font-family: cursive;
+	cursor: pointer;
+	border: 2.5px solid whitesmoke;
+border-radius: 9px;
+}
+
+.register :hover{
+	color: black;
+}
+
+
+#h1{
+	color: floralwhite;
+}
+
+.link :hover {
+color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
